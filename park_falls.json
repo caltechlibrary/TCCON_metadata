@@ -1,0 +1,301 @@
+{
+  "types": {
+    "resourceTypeGeneral": "Dataset",
+    "resourceType": "Remote Sensing"
+  },
+  "identifiers": [
+    {
+      "identifier": "10.14291/tccon.ggg2014.parkfalls01.R1",
+      "identifierType": "DOI"
+    },
+    {
+      "identifier": "GGG2014",
+      "identifierType": "Software_Version"
+    },
+    {
+      "identifier": "pa",
+      "identifierType": "id"
+    },
+    {
+      "identifier": "parkfalls01",
+      "identifierType": "longName"
+    },
+    {
+      "identifier": "R1",
+      "identifierType": "Data_Revision"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "California Institute of Techonolgy, Pasadena, CA (US)",
+      "contributorType": "HostingInstitution",
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "grid.20861.3d",
+          "nameIdentifierScheme": "GRID"
+        }
+      ]
+    },
+    {
+      "name": "Roehl, C. M.",
+      "contributorType": "DataCurator",
+      "affiliations": [
+        "California Institute of Technology, Pasadena, CA (US)"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "0000-0001-5383-8462",
+          "nameIdentifierScheme": "ORCID"
+        }
+      ]
+    },
+    {
+      "name": "TCCON",
+      "contributorType": "ResearchGroup"
+    },
+    {
+      "name": "Paul Wennberg",
+      "contributorType": "ContactPerson",
+      "affiliations": [
+        "California Institute of Technology, Pasadena, CA (US)"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "0000-0002-6126-3854",
+          "nameIdentifierScheme": "ORCID"
+        },
+        {
+          "nameIdentifier": "A-5460-2012",
+          "nameIdentifierScheme": "ResearcherID"
+        }
+      ]
+    }
+  ],
+  "creators": [
+    {
+      "affiliations": [
+        "California Institute of Technology, Pasadena, CA (US)"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "0000-0002-6126-3854",
+          "nameIdentifierScheme": "ORCID"
+        },
+        {
+          "nameIdentifier": "A-5460-2012",
+          "nameIdentifierScheme": "ResearcherID"
+        }
+      ],
+      "name": "Wennberg, P. O."
+    },
+    {
+      "affiliation": [
+        {
+          "name": "California Institute of Technology, Pasadena, CA (US)",
+          "affiliationIdentifier": "https://ror.org/05dxps055",
+          "affiliationIdentifierScheme": "ROR"
+        }
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "0000-0001-5383-8462",
+          "nameIdentifierScheme": "ORCID"
+        }
+      ],
+      "name": "Roehl, C. M."
+    },
+    {
+      "affiliations": [
+        "California Institute of Technology, Pasadena, CA (US)"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "0000-0002-4924-0377",
+          "nameIdentifierScheme": "ORCID"
+        }
+      ],
+      "name": "Wunch, D."
+    },
+    {
+      "affiliations": [
+        "Jet Propulsion Laboratory, Pasadena, CA (US)"
+      ],
+      "name": "Toon, G. C."
+    },
+    {
+      "affiliations": [
+        "Jet Propulsion Laboratory, Pasadena, CA (US)"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "0000-0002-1800-9316",
+          "nameIdentifierScheme": "ORCID"
+        }
+      ],
+      "name": "Blavier, J.-F."
+    },
+    {
+      "affiliations": [
+        "University of Colorado / NOAA, Boulder, CO (US)"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "0000-0002-8106-3702",
+          "nameIdentifierScheme": "ORCID"
+        },
+        {
+          "nameIdentifier": "E-7169-2010",
+          "nameIdentifierScheme": "ResearcherID"
+        }
+      ],
+      "name": "Washenfelder, R."
+    },
+    {
+      "affiliations": [
+        "University of Michigan, Ann Arbor, MI (US)"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "0000-0003-2213-0044",
+          "nameIdentifierScheme": "ORCID"
+        }
+      ],
+      "name": "Keppel-Aleks, G."
+    },
+    {
+      "affiliations": [
+        "Harvard University, Cambridge, MA (US)"
+      ],
+      "nameIdentifiers": [
+        {
+          "nameIdentifier": "0000-0002-7528-8606",
+          "nameIdentifierScheme": "ORCID"
+        }
+      ],
+      "name": "Allen, N. T."
+    },
+    {
+      "affiliations": [
+        "Wisconsin Educational Communications Board, Park Falls, WI (US)"
+      ],
+      "name": "Ayers, J."
+    }
+  ],
+  "fundingReferences": [
+    {
+      "awardNumber": "NAG5-12247",
+      "awardTitle": "Measurement of Column-Averaged CO2",
+      "funderIdentifier": "grid.238252.c",
+      "funderIdentifierType": "GRID",
+      "funderName": "National Aeronautics and Space Administration"
+    },
+    {
+      "awardNumber": "NNG05-GD07G",
+      "awardTitle": "Integrated Measurement and Modeling of Remotely-Sensed, Vertical Column-Averaged Mixing Ratios of CO2, CO, and CH4",
+      "funderIdentifier": "grid.238252.c",
+      "funderIdentifierType": "GRID",
+      "funderName": "National Aeronautics and Space Administration"
+    },
+    {
+      "awardNumber": "NNX08AI86G",
+      "awardTitle": "The Total Carbon Column Observing Network (TCCON)",
+      "funderIdentifier": "grid.238252.c",
+      "funderIdentifierType": "GRID",
+      "funderName": "National Aeronautics and Space Administration"
+    },
+    {
+      "awardNumber": "NNX11AG01G",
+      "awardTitle": "Constraining Fluxes of Carbon with Total Column Measurements of CO2 and CH4",
+      "funderIdentifier": "grid.238252.c",
+      "funderIdentifierType": "GRID",
+      "funderName": "National Aeronautics and Space Administration"
+    },
+    {
+      "awardNumber": "NNX14AI60G",
+      "awardTitle": "Quantifying Changes in the Distribution and Cycling of Carbon with Total Column Measurements of CO2 and CH4",
+      "funderIdentifier": "grid.238252.c",
+      "funderIdentifierType": "GRID",
+      "funderName": "National Aeronautics and Space Administration"
+    },
+    {
+      "awardNumber": "NNX17AE15G",
+      "awardTitle": "Changes in the Carbon Cycle Observed in Greenhouse Gas Total Columns - TCCON",
+      "funderIdentifier": "grid.238252.c",
+      "funderIdentifierType": "GRID",
+      "funderName": "National Aeronautics and Space Administration"
+    }
+  ],
+  "language": "eng",
+  "publicationYear": "2017",
+  "publisher": "CaltechDATA",
+  "subjects": [
+    {
+      "subject": "atmospheric trace gases"
+    },
+    {
+      "subject": "CO2"
+    },
+    {
+      "subject": "CH4"
+    },
+    {
+      "subject": "CO"
+    },
+    {
+      "subject": "N2O"
+    },
+    {
+      "subject": "column-averaged dry-air mole fractions"
+    },
+    {
+      "subject": "remote sensing"
+    },
+    {
+      "subject": "FTIR spectroscopy"
+    },
+    {
+      "subject": "TCCON"
+    }
+  ],
+  "titles": [
+    {
+      "title": "TCCON data from Park Falls (US), Release GGG2014.R1"
+    }
+  ],
+  "version": "GGG2014.R1",
+  "formats": [
+    "application/x-netcdf"
+  ],
+  "dates": [
+    {
+      "date": "2014-10-01",
+      "dateType": "Created"
+    },
+    {
+      "date": "2020-05-01",
+      "dateType": "Updated"
+    },
+    {
+      "date": "2004-06-02/2019-12-22",
+      "dateType": "Collected"
+    },
+    {
+      "date": "2017-09-27",
+      "dateType": "Submitted"
+    },
+    {
+      "date": "2017-08-22",
+      "dateType": "Issued"
+    }
+  ],
+  "geoLocations": [
+    {
+      "geoLocationPlace": "Park Falls, WI (US)",
+      "geoLocationPoint": {
+        "pointLatitude": "45.945",
+        "pointLongitude": "-90.273"
+      }
+    }
+  ],
+  "schemaVersion": "http://datacite.org/schema/kernel-4"
+}
