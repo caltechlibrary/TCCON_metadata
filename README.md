@@ -1,7 +1,7 @@
 Workflow for TCCON Metadata
 =====================================================
 
-Improved workflow for managing TCCON Metadata.
+OUTDATED: Please use https://github.com/caltechlibrary/tccon-caltechdata
 
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg?style=flat-square)](https://choosealicense.com/licenses/bsd-3-clause)
 [![Latest release](https://img.shields.io/github/v/release/caltechlibrary/template.svg?style=flat-square&color=b44e88)](https://github.com/caltechlibrary/template/releases)
